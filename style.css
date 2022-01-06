@@ -4,6 +4,29 @@
     font-weight: bold;
     color: khaki;
     text-align: center;
+    background-image: url(./pattern.webp);
 }
 
-.section-
+.section-header {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#HeadSection1 {
+    background-color: mediumspringgreen;
+}
+
+#HeadSection2 {
+    background-color: lightcoral;
+}
+#HeadSection3 {
+    background-color: skyblue;
+}
+
+strong {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
